@@ -1,0 +1,20 @@
+* {
+  font-family: sans-serif;
+}
+
+.main {
+  padding-bottom: 2rem;
+}
+
+.footer {
+  width: 50%;
+  margin: auto;
+  padding-bottom: 2rem;
+}
+
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
